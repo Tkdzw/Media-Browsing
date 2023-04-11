@@ -1,3 +1,4 @@
+# This Is A Media Browsing Program.
 import sys, os
 
 from PyQt5 import QtWidgets,QtCore
